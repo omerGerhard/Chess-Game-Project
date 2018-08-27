@@ -1,0 +1,14 @@
+white
+GAME_MODE: 1-player
+USER_COLOR: white
+DIFFICULTY: easy
+8| _ K _ _ _ _ _ _ |
+7| _ _ _ _ Q _ _ _ |
+6| b n _ _ q _ _ _ |
+5| _ _ _ _ _ _ _ _ |
+4| _ _ _ _ m _ _ _ |
+3| _ _ _ _ _ _ _ m |
+2| _ _ m m _ m _ m |
+1| _ _ _ _ k _ _ _ |
+  -----------------
+   A B C D E F G H
